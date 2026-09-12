@@ -19,4 +19,4 @@ GNU compiler
 Enter the command:
 ```g++ -I ./include -L ./lib src/minesweeper.cpp src/glad.c -lglfw3dll -o minesweeper ```
 
-or download the <a href = "exe">executable</a>
+or download the <a href = "/minesweeper.exe" download>executable</a>
